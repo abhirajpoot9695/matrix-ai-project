@@ -1,0 +1,1 @@
+This is a professional, single-page landing page built for an AI Consulting Business as part of the Matrix International AI-Developer Challenge. The page features a futuristic design, detailed service sections, and a functional contact form logic.
